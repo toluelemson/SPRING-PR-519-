@@ -25,3 +25,6 @@ This is a simple tool to view, manage, share and organize images on your device.
 - Quality assurance testing (10-May-2021)
 - User acceptance testing (13-May-2021)
 - Deployment (17-May-2021)
+
+**Trello Board
+https://trello.com/b/QD9rSiYI/team-project
