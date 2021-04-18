@@ -26,5 +26,5 @@ This is a simple tool to view, manage, share and organize images on your device.
 - User acceptance testing (13-May-2021)
 - Deployment (17-May-2021)
 
-**Trello Board
+**Trello Board**
 https://trello.com/b/QD9rSiYI/team-project
